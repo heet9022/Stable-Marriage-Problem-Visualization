@@ -16,6 +16,9 @@ var shuffle = (array) => { //credit stackoverflow for this; im too lazy to write
   return array;
 }
 
+
+
+
 class App extends Component {
   state = {
     n: 3, 
